@@ -10,6 +10,11 @@
 <b>Keywords</b>: 3D reconstruction; digital twin; geospatial visualization; urban simulation; LiDAR integration; procedural generation; spatial data analysis<br>
 <b>Published</b>: 28 May 2024
 
+### [The Microverse: A Task-Oriented Edge-Scale Metaverse](https://www.mdpi.com/2676344)
+<b>Authors</b>: Qian Qu, Mohsen Hatami, Ronghua Xu, Deeraj Nagothu, Yu Chen ,Xiaohua Li, Erik Blasch, Erika Ardiles-Cruz and Genshe Chen<br>
+<b>Keywords</b>: metaverse; digital twins (DT); blockchain; Internet of Things (IoT); smart public safety surveillance (SPSS)<br>
+<b>Published</b>: 13 February 2024
+
 ### [A Quantum-Resistant Blockchain System: A Comparative Analysis](https://www.mdpi.com/2483366)
 <b>Authors</b>:  P. Thanalakshmi, A. Rishikhesh, Joel Marion Marceline, Gyanendra Prasad Joshi and Woong Cho<br>
 <b>Keywords</b>: blockchain; blockchain security; cryptography; quantum computing; post-quantum signatures<br>
