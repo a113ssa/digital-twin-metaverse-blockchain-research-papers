@@ -1,5 +1,10 @@
 # Digital Twin, Metaverse and Blockchain Research Papers Collection
 
+### [Navigating urban complexity: The transformative role of digital twins in smart city development](https://www.sciencedirect.com/science/article/pii/S2210670724004086)
+<b>Authors</b>: Dechen Peldon, Saeed Banihashemi, Khuong LeNguyen, Sybil Derrible <br>
+<b>Keywords</b>: Digital twin; Urban design; Urban planning; Smart city; BIM; Industry 4.0<br>
+<b>Published</b>: 8 June 2024
+
 ### [Metaverse & Human Digital Twin: Digital Identity, Biometrics, and Privacy in the Future Virtual Worlds](https://www.mdpi.com/2818564)
 <b>Authors</b>: Pietro Ruiu, Michele Nitti, Virginia Pilloni, Marinella Cadoni, Enrico Grosso and Mauro Fadda<br>
 <b>Keywords</b>: Metaverse; Human Digital Twin; privacy; digital identity; wearable<br>
