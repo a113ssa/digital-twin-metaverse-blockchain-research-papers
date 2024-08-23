@@ -20,6 +20,11 @@
 <b>Keywords</b>: metaverse; digital twins (DT); blockchain; Internet of Things (IoT); smart public safety surveillance (SPSS)<br>
 <b>Published</b>: 13 February 2024
 
+### [Multi-Scalar Urban Digital Twin Design: Architecture and OpenUSD Standards Based Methodology](https://primerascientific.com/pdf/psen/PSEN-04-100.pdf)
+<b>Authors</b>: Igor AGBOSSOU<br>
+<b>Keywords</b>: Urban digital twin; Multi-Scale representation; OpenUSD standards; Urban planning; Level of detail; Urban visual features<br>
+<b>Published</b>: : 28 December 2023
+
 ### [A Quantum-Resistant Blockchain System: A Comparative Analysis](https://www.mdpi.com/2483366)
 <b>Authors</b>:  P. Thanalakshmi, A. Rishikhesh, Joel Marion Marceline, Gyanendra Prasad Joshi and Woong Cho<br>
 <b>Keywords</b>: blockchain; blockchain security; cryptography; quantum computing; post-quantum signatures<br>
