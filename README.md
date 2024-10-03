@@ -1,5 +1,10 @@
 # Digital Twin, Metaverse and Blockchain Research Papers Collection
 
+### [A Review of Urban Digital Twins Integration, Challenges, and Future Directions in Smart City Development](https://www.mdpi.com/2071-1050/16/19/8337)
+<b>Authors</b>: Silvia Mazzetto <br>
+<b>Keywords</b>: environmental sustainability; artificial intelligence; smart cities; sustainable urban planning; data integration; edge computing; multidisciplinary collaboration<br>
+<b>Published</b>: 25 September 2024
+
 ### [Navigating urban complexity: The transformative role of digital twins in smart city development](https://www.sciencedirect.com/science/article/pii/S2210670724004086)
 <b>Authors</b>: Dechen Peldon, Saeed Banihashemi, Khuong LeNguyen, Sybil Derrible <br>
 <b>Keywords</b>: Digital twin; Urban design; Urban planning; Smart city; BIM; Industry 4.0<br>
