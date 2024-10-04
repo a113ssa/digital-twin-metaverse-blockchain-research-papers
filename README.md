@@ -25,6 +25,11 @@
 <b>Keywords</b>: metaverse; digital twins (DT); blockchain; Internet of Things (IoT); smart public safety surveillance (SPSS)<br>
 <b>Published</b>: 13 February 2024
 
+### [makeTwin: A reference architecture for digital twin software platform](https://www.sciencedirect.com/science/article/pii/S1000936123001541)
+<b>Authors</b>: Fei TAO, Xuemin SUN, Jiangfeng CHENG, Yonghuai ZHU, Weiran LIU, Yong WANG, Hui XU, Tianliang HU, Xiaojun LIU, Tingyu LIU, Zheng SUN, Jun XU, Jinsong BAO, Feng XIANG, Xiaohui JIN<br>
+<b>Keywords</b>: Digital twinDigital twin software platformIndustrial softwaremakeTwinReference architecture<br>
+<b>Published</b>: January 2024
+
 ### [Multi-Scalar Urban Digital Twin Design: Architecture and OpenUSD Standards Based Methodology](https://primerascientific.com/pdf/psen/PSEN-04-100.pdf)
 <b>Authors</b>: Igor AGBOSSOU<br>
 <b>Keywords</b>: Urban digital twin; Multi-Scale representation; OpenUSD standards; Urban planning; Level of detail; Urban visual features<br>
